@@ -10,8 +10,7 @@
 ```
     <uses-permission android:name="android.permission.INTERNET" />
 ```
-2. 
-JWT TOKEN 저장을 위해 사용되는 `SharedPreferences`를 유틸로 사용하기 위해 추가한 조건 
+2. JWT 토큰 저장을 위해 사용되는 `SharedPreferences`를 유틸로 사용하기 위해 추가
 [REFERENCE](https://velog.io/@jinstonlee/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90%EC%84%9C-JWT-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 ```
     <application
